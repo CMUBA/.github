@@ -1,17 +1,15 @@
 ## Hi there 👋
-
-
-**Here are some ideas to get you started:**
+Welcome to the Chinag Mai University Blockchain Association, or CMUBA.
 
 ## 🙋‍♀️ A short introduction -
 + **CMUBA**(Chiang Mai University Blockchain Association) **
 + Mission：**Nurturing Talent, Exploring Blockchain**
-+ Vission：**Improve Asia's well-being by Blockchain**
++ Vission：**Rooted Thailand, Improve Asia's well-being by Blockchain**
 + Slogon：**Learn & Build**
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202312231217772.png)
 
 ## 🌈 Contribution guidelines 
-+ Chece the notion and touch our connectors in different countries and faculties.
++ Check the notion and touch our connectors in different countries and faculties.
 + ⬇️
 
 ## 👩‍💻 Useful resources 
