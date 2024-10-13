@@ -15,6 +15,14 @@ Welcome to the Chinag Mai University Blockchain Association, or CMUBA.
 ## 👩‍💻 Useful resources 
 + Notion(Website): https://CMUBA.notion.site
 
+# Learn & Build
+## 🧑‍🏭Career Opportunity
++ Opportunity and Innovations
+
+## ⛷️Skill you should learn
+
+## 🏗️ Build something together
+
 # 🍿 What we have done
 + Play together!
 + We have a weekly hike on Sunday morning or afternoon to Pala Temple beside the CMU University.
@@ -26,7 +34,7 @@ Welcome to the Chinag Mai University Blockchain Association, or CMUBA.
 ### Web3 Hacker Tools Introduction(Sharing)
 ### Web3 Security Speak(Sharing)
 
-## Events
+## 🎆Events
 ### World's PizzaDay
 ### Incluncers and Society Network(Visit Scholar Speak)
 ### Road To Devcon: IWoW
@@ -34,7 +42,7 @@ Welcome to the Chinag Mai University Blockchain Association, or CMUBA.
 ### Road To Devcon: Documentary Film: Vitalik
 ### Polyphonic Global South: 9th INS Annual Conference
 
-## Outing
+## 🗻Outing
 ### Outing to Wat Pha Lat and Doi Suthep
 + 
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202401141947464.jpg)
@@ -43,11 +51,7 @@ Welcome to the Chinag Mai University Blockchain Association, or CMUBA.
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202401141948163.jpg)
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202401141948140.jpg)
 
-# Learn & Build
-## Career Opportunity
-+ Opportunity and Innovations
 
-## Skill you should learn
-
-## Build something together
+# 🥑Media Kit
++ https://drive.google.com/drive/folders/1yoxcnmkVMUaLKzfmv-YRv_QucEu7Dh9X
 
